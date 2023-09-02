@@ -1,6 +1,6 @@
 # Data Cleaning and Analyzing
 <strong>Overview: </strong>Clean and organize data to identify and understand trends.</li>
-As computers/operating systems run, different events occur that are logged and recorded in various “log” files. These include events such as
+As computers/operating systems run, different events that occur are logged and recorded in various “log” files. These include events such as
 <ul>
   <li>attempted logins to the machine from others</li>
   <li>logins from the same machine</li>
@@ -8,7 +8,7 @@ As computers/operating systems run, different events occur that are logged and r
   <li>adding users</li>
 </ul>
 
-We want to monitor all login attempts to help identify and prevent potential attacks on the machine. The data we will be working with is a merged log file consisting of 5 different log files from different machines
+We want to monitor all login attempts to help identify and prevent potential attacks on the machine. The data we will be working with is a merged log file consisting of 5 different log files from different machines (10.9 MB).
 The structure of the log file message is usually METADATA followed by the message from the machine.
 
 ### Task
